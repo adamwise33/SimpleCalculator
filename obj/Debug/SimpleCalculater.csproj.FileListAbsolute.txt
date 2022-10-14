@@ -1,0 +1,16 @@
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\bin\Debug\SimpleCalculater.exe.config
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\bin\Debug\SimpleCalculater.exe
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\bin\Debug\SimpleCalculater.pdb
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.csproj.AssemblyReference.cache
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.csproj.SuggestedBindingRedirects.cache
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\MainWindow.g.cs
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\App.g.cs
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater_MarkupCompile.cache
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater_MarkupCompile.lref
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\MainWindow.baml
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.g.resources
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.Properties.Resources.resources
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.csproj.GenerateResource.cache
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.csproj.CoreCompileInputs.cache
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.exe
+C:\Users\adaml\source\repos\ML Learning Py\SimpleCalculater\obj\Debug\SimpleCalculater.pdb
